@@ -21,6 +21,7 @@
   <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center"  height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+  <img align="center"  height="40" width="40" src="[https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png](https://w7.pngwing.com/pngs/7/894/png-transparent-csharp-plain-logo-icon.png)"/>
   </div>
 </div>
 
